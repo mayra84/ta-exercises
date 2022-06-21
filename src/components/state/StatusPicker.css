@@ -1,0 +1,11 @@
+.status-Active {
+    background-color: chartreuse;
+}
+
+.status-Away {
+    background-color: yellow;
+}
+
+.status-Offline {
+    background-color: red;
+}
